@@ -9,6 +9,7 @@
 
 <span id='id_llavanext'></span>
 - ### <b>LLaVa-Next</b>  <sub><img src="https://img.shields.io/badge/30 Jan 2024-005AB5"></sub>
+
     <p align="center">
     <a href="https://llava-vl.github.io/blog/2024-04-30-llava-next-video/"><img src="https://img.shields.io/badge/LLaVa Next-blog-66B3FF
     "></a>
@@ -33,6 +34,7 @@
 
 <span id='id_varytoy'></span>
 - ### <b>Vary-toy</b>     <sub><img src="https://img.shields.io/badge/23 Jan 2024-005AB5"></sub>
+
     <p align="center">
     <a href="https://arxiv.org/abs/2401.12503"><img src="https://img.shields.io/badge/Vary_toy-paper-66B3FF"></a>
     <a href="https://vary.xiaomy.net/"><img src="https://img.shields.io/badge/Vary toy-Demo-81C954
@@ -56,6 +58,7 @@
 
 <span id='id_llava'></span>
 - ### <b>LLaVa</b>  <sub><img src="https://img.shields.io/badge/17 Apr 2023-005AB5"></sub>
+
     <p align="center">
     <a href="https://arxiv.org/abs/2304.08485"><img src="https://img.shields.io/badge/LLaVa-paper-66B3FF
     "></a>
