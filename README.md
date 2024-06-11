@@ -31,8 +31,8 @@
 - ### <b>Vary-toy</b>     <sub><img src="https://img.shields.io/badge/23 Jan 2024-005AB5"></sub>
 
     <p align="center">
-    <a href="https://arxiv.org/abs/2401.12503"><img src="https://img.shields.io/badge/Vary_toy-paper-66B3FF"></a>
-    <a href="https://vary.xiaomy.net/"><img src="https://img.shields.io/badge/Vary_toy-Demo-81C954
+    <a href="https://arxiv.org/abs/2401.12503"><img src="https://img.shields.io/badge/Vary%20toy-paper-66B3FF"></a>
+    <a href="https://vary.xiaomy.net/"><img src="https://img.shields.io/badge/Vary%20toy-Demo-81C954
     "></a>
     <a href="https://github.com/Ucas-HaoranWei/Vary-toy"> <img src="https://img.shields.io/github/stars/Ucas-HaoranWei/Vary-toy.svg"></a>
     </p>
