@@ -2,21 +2,19 @@
 
 *This note was created for research projects related to the understanding of Chinese charts and diagrams, compiling currently available open-source Multimodal Large Language Models (MLLM).*
 
-*If you have any suggestions or notice any missing models, please feel free to let me know, Thank you!*
+*If you have any suggestions or notice any missing models, please feel free to let <sub><sub><a href="#me"><img src="https://img.shields.io/badge/me-000000"></a></sub></sub> know, Thank you!*
 
 
 ## Supports Chinese Conversations
 
 <span id='id_llavanext'></span>
 - ### <b>LLaVa-Next</b>  <sub><img src="https://img.shields.io/badge/30 Jan 2024-005AB5"></sub>
-
-    <p align="center">
-    <a href="https://llava-vl.github.io/blog/2024-04-30-llava-next-video/"><img src="https://img.shields.io/badge/LLaVa Next-blog-66B3FF
-    "></a>
-    <a href="https://llava-next.lmms-lab.com/"><img src="https://img.shields.io/badge/LLaVa Next-Demo-81C954
-    "></a>
+    
+    <sub><sub>
+    [![Code License](https://img.shields.io/badge/LLaVa%20Next-blog-66B3FF.svg)](https://llava-vl.github.io/blog/2024-04-30-llava-next-video/) [![Data License](https://img.shields.io/badge/LLaVa%20Next-Demo-81C954.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/DATA_LICENSE)
     <a href="https://github.com/LLaVA-VL/LLaVA-NeXT"> <img src="https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT.svg"></a>
-    </p>
+    </sub></sub>
+
 
     > <b>*Authors*</b> : Yuanhan Zhang, Bo Li, Haotian Liu, Yong Jae Lee, Liangke Gui, Di Fu, Jiashi Feng, Ziwei Liu, Chunyuan Li
 
@@ -105,7 +103,7 @@
 - [ ] ChartAst
 
 ## Contact Information
-<span id='id_llavanext'></span>
+<span id='me'></span>
 ### Marine Wu  <sub>[![linkedin](https://img.shields.io/badge/linkedin-in-blue.svg)](https://www.linkedin.com/in/marine-wu-738a6b1a5/)</sub>
 
 <sub>[![Email](https://img.shields.io/badge/Email-✉️-BE77FF.svg)](#)</sub>  ai4wu01mp6@gmail.com
