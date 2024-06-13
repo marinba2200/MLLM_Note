@@ -10,8 +10,12 @@
 <span id='id_llavanext'></span>
 - ### <b>LLaVa-Next</b>  <sub><img src="https://img.shields.io/badge/30 Jan 2024-005AB5"></sub>
     
+    <div align="center">
+
     [![Code License](https://img.shields.io/badge/LLaVa%20Next-blog-66B3FF.svg)](https://llava-vl.github.io/blog/2024-04-30-llava-next-video/) [![Data License](https://img.shields.io/badge/LLaVa%20Next-Demo-81C954.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/DATA_LICENSE)
     <a href="https://github.com/LLaVA-VL/LLaVA-NeXT"> <img src="https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT.svg"></a>
+
+    </div>
 
     <b>*Authors*</b> : Yuanhan Zhang, Bo Li, Haotian Liu, Yong Jae Lee, Liangke Gui, Di Fu, Jiashi Feng, Ziwei Liu, Chunyuan Li
 
@@ -30,12 +34,14 @@
 <span id='id_varytoy'></span>
 - ### <b>Vary-toy</b>     <sub><img src="https://img.shields.io/badge/23 Jan 2024-005AB5"></sub>
 
-    <p align="center">
+    <div align="center">
+
     <a href="https://arxiv.org/abs/2401.12503"><img src="https://img.shields.io/badge/Vary%20toy-paper-66B3FF"></a>
     <a href="https://vary.xiaomy.net/"><img src="https://img.shields.io/badge/Vary%20toy-Demo-81C954
     "></a>
     <a href="https://github.com/Ucas-HaoranWei/Vary-toy"> <img src="https://img.shields.io/github/stars/Ucas-HaoranWei/Vary-toy.svg"></a>
-    </p>
+    
+    </div>
 
     <b>*Authors*</b> : [Haoran Wei*](https://scholar.google.com/citations?user=J4naK0MAAAAJ&hl=en), Lingyu Kong*, Jinyue Chen, Liang Zhao, [Zheng Ge](https://joker316701882.github.io/), [En Yu](https://scholar.google.com.hk/citations?user=rWCQMNgAAAAJ&hl=zh-CN&oi=sra), [Jianjian Sun](https://scholar.google.com/citations?user=MVZrGkYAAAAJ&hl=en), Chunrui Han, [Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en)
 
