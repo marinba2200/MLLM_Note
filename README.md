@@ -12,7 +12,7 @@
     
     <div align="center">
 
-    [![Code License](https://img.shields.io/badge/LLaVa%20Next-blog-66B3FF.svg)](https://llava-vl.github.io/blog/2024-04-30-llava-next-video/) [![Data License](https://img.shields.io/badge/LLaVa%20Next-Demo-81C954.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/DATA_LICENSE)
+    [![Blog](https://img.shields.io/badge/LLaVa%20Next-blog-66B3FF.svg)](https://llava-vl.github.io/blog/2024-04-30-llava-next-video/) [![Demo](https://img.shields.io/badge/LLaVa%20Next-Demo-81C954.svg)](https://llavanext-video.lmms-lab.com/)
     <a href="https://github.com/LLaVA-VL/LLaVA-NeXT"> <img src="https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT.svg"></a>
 
     </div>
@@ -31,16 +31,15 @@
 
     <b>*Related Work*</b> : <sub><sub><a href="#id_llava"><img src="https://img.shields.io/badge/LLaVa-8E8E8E"></a></sub></sub>
 
+
 <span id='id_varytoy'></span>
 - ### <b>Vary-toy</b>     <sub><img src="https://img.shields.io/badge/23 Jan 2024-005AB5"></sub>
 
     <div align="center">
 
-    <a href="https://arxiv.org/abs/2401.12503"><img src="https://img.shields.io/badge/Vary%20toy-paper-66B3FF"></a>
-    <a href="https://vary.xiaomy.net/"><img src="https://img.shields.io/badge/Vary%20toy-Demo-81C954
-    "></a>
+    [![Paper](https://img.shields.io/badge/Vary%20toy-paper-66B3FF.svg)](https://arxiv.org/abs/2401.12503) [![Demo](https://img.shields.io/badge/Vary%20toy-Demo-81C954.svg)](https://vary.xiaomy.net/)
     <a href="https://github.com/Ucas-HaoranWei/Vary-toy"> <img src="https://img.shields.io/github/stars/Ucas-HaoranWei/Vary-toy.svg"></a>
-    
+
     </div>
 
     <b>*Authors*</b> : [Haoran Wei*](https://scholar.google.com/citations?user=J4naK0MAAAAJ&hl=en), Lingyu Kong*, Jinyue Chen, Liang Zhao, [Zheng Ge](https://joker316701882.github.io/), [En Yu](https://scholar.google.com.hk/citations?user=rWCQMNgAAAAJ&hl=zh-CN&oi=sra), [Jianjian Sun](https://scholar.google.com/citations?user=MVZrGkYAAAAJ&hl=en), Chunrui Han, [Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en)
@@ -60,13 +59,12 @@
 <span id='id_llava'></span>
 - ### <b>LLaVa</b>  <sub><img src="https://img.shields.io/badge/17 Apr 2023-005AB5"></sub>
 
-    <p align="center">
-    <a href="https://arxiv.org/abs/2304.08485"><img src="https://img.shields.io/badge/LLaVa-paper-66B3FF
-    "></a>
-    <a href="https://llava.hliu.cc/"><img src="https://img.shields.io/badge/LLaVa-Demo-81C954
-    "></a>
+    <div align="center">
+
+    [![Paper](https://img.shields.io/badge/LLaVa-paper-66B3FF.svg)](https://arxiv.org/abs/2304.08485) [![Demo](https://img.shields.io/badge/LLaVa-Demo-81C954.svg)](https://llava.hliu.cc/)
     <a href="https://github.com/haotian-liu/LLaVA"> <img src="https://img.shields.io/github/stars/haotian-liu/LLaVA.svg"></a>
-    </p>
+
+    </div>
 
     <b>*Authors*</b> : [Haotian Liu](https://hliu.cc), [Chunyuan Li](https://chunyuan.li/), [Yuheng Li](https://yuheng-li.github.io/), [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/)
 
@@ -109,4 +107,4 @@
 <span id='me'></span>
 ### Marine Wu  <sub>[![linkedin](https://img.shields.io/badge/linkedin-in-blue.svg)](https://www.linkedin.com/in/marine-wu-738a6b1a5/)</sub>
 
-<sub>[![Email](https://img.shields.io/badge/Email-✉️-BE77FF.svg)](#)</sub>  ai4wu01mp6@gmail.com
+<sub><sub>[![Email](https://img.shields.io/badge/Email-✉️-BE77FF.svg)](#)</sub></sub>  ai4wu01mp6@gmail.com
